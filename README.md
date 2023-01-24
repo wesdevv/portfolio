@@ -1,2 +1,5 @@
 # portfolio
-Criei minha pagina web para poder ficar mais facil a visualização dos meus projetos.
+
+Esse foi o projeto onde eu consegui criar meu primeiro projeto, onde não tenho tanta experiência,
+Onde dentro desse projeto onde vou deixar meus projetos criados e visualizar minha evolução também.
+
